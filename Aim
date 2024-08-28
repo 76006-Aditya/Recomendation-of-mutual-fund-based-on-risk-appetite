@@ -1,0 +1,3 @@
+Aim : Our project helps  to analyse the risks of different mutual funds, learn their behavior and then it recommends the user the best schemes according to their preferenced category, subcategory, risk-level,  on past returns, and their past return behaviours along with many calculated functionalities like  sharpe_ratio, treynor_ratio ,etc. .
+
+Goal: Recommend mutual funds based on a risk metric (e.g., Sharpe ratio, Treynor ratio, Alpha).
